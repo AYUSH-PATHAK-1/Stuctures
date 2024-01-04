@@ -16,3 +16,6 @@ int main(){
     std::cout << "the Sum is " << sum << std::endl;
    
 }
+
+
+you can also use the accumlator function in c++
